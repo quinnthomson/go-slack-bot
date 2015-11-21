@@ -13,3 +13,4 @@ Building with Docker:
 Running
 
     docker run -it --rm -e SLACK_TOKEN=<YOUR_SLACK_TOKEN> beepboophq/go-slack-bot
+
